@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    font-family: 'roboto slab', 'sans-serif';
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'ubuntu condensed', sans-serif;
+}
+
+.anchor-link h1::after {
+    font-family: "Font Awesome 5 free";
+    content: " \f0cl";
+    font-weight: 900;
+}
+
+.aha {
+    border-right-style: none;
+    border-top-style: none;
+    border-left-style: none;
+}
+
+.aha:active {
+    border-right-style: none;
+    border-top-style: none;
+    border-left-style: none;
+    background-color: yellow;
+}
+
+.aha:focus{
+    outline: none;
+    background-color: yellow;
+
+
+
+
+        
+
+    
+}
